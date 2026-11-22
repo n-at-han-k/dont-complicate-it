@@ -4,3 +4,5 @@
 2. Believe in the unix philosophy
 3. ???
 4. Profit.
+
+![Power Mac G4 Cube](res/power-mac-g4-cube.jpeg)

@@ -5,4 +5,6 @@
 3. ???
 4. Profit.
 
-![Power Mac G4 Cube](res/power-mac-g4-cube.jpeg)
+---
+
+<img src="res/power-mac-g4-cube.jpeg" alt="Power Mac G4 Cube" width="100%">

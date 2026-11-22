@@ -7,4 +7,4 @@
 
 ---
 
-<img src="res/power-mac-g4-cube.jpeg" alt="Power Mac G4 Cube" width="100%">
+<img src="res/honey-i-shrank-the-supercomputer.jpeg" alt="Honey, I shrunk the supercomputer." width="100%">
